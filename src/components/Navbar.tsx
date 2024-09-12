@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem } from "@/components/ui/navbar-menu";
 import { cn } from "@/lib/utils";
 import { HeroHighlight } from "./ui/hero-highlight";
-import Link from "next/link";
+
 
 function Navbar({ className }: { className?: string }) {
   const [active, setActive] = useState<string | null>(null);

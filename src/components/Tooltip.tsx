@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { WavyBackground } from "./ui/wavy-background";
 const people = [
     {
       id: 1,

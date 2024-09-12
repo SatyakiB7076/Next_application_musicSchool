@@ -1,5 +1,4 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
-import Footer from "@/components/Footer";
 import { InfiniteMovingCardsDemo } from "@/components/MovingCards";
 import { SpotlightPreview } from "@/components/SpotlightPreview";
 import { AnimatedTooltipPreview } from "@/components/Tooltip";
